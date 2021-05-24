@@ -1,0 +1,2 @@
+# GlanceToday
+News application
